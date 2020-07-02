@@ -68,7 +68,6 @@ public class LessonOne {
             System.out.println("Год " + year + " не високосный");
         }
         }
-
     }
 
 
